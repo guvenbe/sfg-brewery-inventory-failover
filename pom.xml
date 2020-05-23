@@ -9,7 +9,7 @@
 
 	<groupId>com.github.sfg-beer-works</groupId>
 	<artifactId>sfg-brewery-inventory-failover</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 
 	<name>sfg-brewery-inventory-failover</name>
 
@@ -64,6 +64,6 @@
 		<connection>scm:git:git@github.com:sfg-beer-works/sfg-brewery-inventory-failover.git</connection>
 		<developerConnection>scm:git:git@github.com:sfg-beer-works/sfg-brewery-inventory-failover.git</developerConnection>
 		<url>https://github.com/sfg-beer-works/sfg-brewery-inventory-failover</url>
-		<tag>HEAD</tag>
+		<tag>sfg-brewery-inventory-failover-1.0.1</tag>
 	</scm>
 </project>
