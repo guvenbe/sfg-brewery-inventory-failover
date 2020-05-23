@@ -10,7 +10,7 @@
 
 	<groupId>guru.sfg.brewery</groupId>
 	<artifactId>sfg-brewery-inventory-failover</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 
 	<name>sfg-brewery-inventory-failover</name>
 
