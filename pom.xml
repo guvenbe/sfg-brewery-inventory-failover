@@ -2,13 +2,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>com.github.sfg-beer-works</groupId>
-		<artifactId>sfg-beer-works-bom</artifactId>
-		<version>1.0.26</version>
+		<groupId>com.github.bg-beer-works</groupId>
+		<artifactId>sfg-brewery-bom</artifactId>
+		<version>1.0.53</version>
 	</parent>
 
 	<artifactId>sfg-brewery-inventory-failover</artifactId>
-	<version>1.0.6-SNAPSHOT</version>
+	<version>1.0.50-SNAPSHOT</version>
 
 	<name>sfg-brewery-inventory-failover</name>
 
@@ -60,9 +60,9 @@
 	</dependencies>
 
 	<scm>
-		<connection>scm:git:git@github.com:sfg-beer-works/sfg-brewery-inventory-failover.git</connection>
-		<developerConnection>scm:git:git@github.com:sfg-beer-works/sfg-brewery-inventory-failover.git</developerConnection>
-		<url>https://github.com/sfg-beer-works/sfg-brewery-inventory-failover</url>
+		<connection>scm:git:git@github.com:guvenbe/sfg-brewery-inventory-failover.git</connection>
+		<developerConnection>scm:git:git@github.com:guvenbe/sfg-brewery-inventory-failover.git</developerConnection>
+		<url>https://github.com/guvenbe/sfg-brewery-inventory-failover</url>
 		<tag>HEAD</tag>
 	</scm>
 </project>
